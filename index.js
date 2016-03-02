@@ -10,7 +10,7 @@ var
     r = canvas.width / 5,
     x = 0,
     y = 0,
-    kr = 0.09,
+    kr = 0.085,
     s = 3,
     animateDegree = 1,
 
@@ -120,3 +120,4 @@ function animate() {
 }
 
 animate();
+
